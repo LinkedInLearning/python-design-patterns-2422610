@@ -1,9 +1,10 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Python: Design Patterns
+This is the repository for the LinkedIn Learning course Python: Design Patterns. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![course-name-alt-text][lil-thumbnail-url] 
+![Python: Design Patterns][lil-thumbnail-url] 
 
-_See the readme file in the main branch for updated instructions and information._
+If you’re a programmer, you’re probably plenty busy, so why not save some time and avoid reinventing the wheel by reusing well-proven design solutions—software design patterns—to improve your code quality? Design patterns encourage programming efficiency and code reuse. In this course, Jungwoo Ryoo takes a look at traditional design patterns as applied to Python. Jungwoo Ryoo covers 15 essential creational, structural, and behavioral patterns to help you solve common coding challenges, while introducing best practices that can help keep your solutions consistent, complete, and correct.
+
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
@@ -22,15 +23,16 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
 
+### Instructor
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+Jungwoo Ryoo 
+                            
+Professor of Information Sciences and Technology
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+                            
 
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/jungwoo-ryoo).
+
+[lil-course-url]: https://www.linkedin.com/learning/python-design-patterns-14304845
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2422610/2422610-1633633858335-16x9.jpg
